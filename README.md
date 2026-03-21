@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
-![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
+![Status](https://img.shields.io/badge/Status-Complete-green)
 
 ---
 
